@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wonsung2&theme=synthwave)](https://github.com/Wonsung2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonsung2&theme=synthwave)](https://github.com/Wonsung2/github-readme-stats)
 ---
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wonsung2)
