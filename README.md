@@ -15,21 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=13&height=300&section=header&text=Wonsung%202&fontSize=60)
+
 ---
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wonsung2&theme=synthwave)](https://github.com/Wonsung2/github-readme-stats)
 <br>
+
 ---
+
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonsung2&theme=synthwave)](https://github.com/Wonsung2/github-readme-stats)
+
 ---
 
 
-
+ 
+ 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wonsung2)
 ---
 
