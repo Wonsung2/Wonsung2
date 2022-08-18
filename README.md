@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=EF2D5E&width=1000&height=100&lines=Hi+Its+Wonsung2+GitHub!!!)](https://git.io/typing-svg)
+
+---
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=13&height=300&section=header&text=Wonsung%202&fontSize=60)
 
 ---
